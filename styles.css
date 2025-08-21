@@ -18,5 +18,5 @@ body{
  .chamada-video{
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: ;
  }
