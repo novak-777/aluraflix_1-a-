@@ -36,5 +36,8 @@ header{
  .chamada-video{
     display: flex;
     overflow-x: auto;
-    gap: ;
+    gap:10px ;
+ }
+ h2{
+   font-size: 30px;
  }
